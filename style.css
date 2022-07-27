@@ -1,0 +1,54 @@
+
+.topimage{
+    background-image: url(media/images/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    padding: 10px;
+    
+    
+    
+    
+    
+    text-align: center;
+
+}
+.nav{
+    color: white;
+}
+img{
+    width: 150px;
+    
+    
+}
+
+.row{
+    padding: 15px;
+    padding-right: 20px;
+    
+}
+footer{
+    text-align: center;
+    background-color: grey;
+    color: white;
+    padding: 15px;
+}
+h1{
+    text-align: center;
+}
+.amenities{
+    background-image: url(media/images/background.png);
+    background-position-y: -200px;
+    background-repeat:repeat;
+    
+    background-size: fill;
+    width: 100%;
+
+}
+li{
+    list-style: none;
+    
+}
+.container{
+    align-items: center;
+}
